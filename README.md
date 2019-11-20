@@ -25,5 +25,5 @@ If there are any issues with the pull request or if you have any additional comm
 * [fsc.gov.et](http://www.fsc.gov.et/content/Negarit%20Gazeta/home22.htm)
 * [Chilot.me](http://chilot.me/)
 
-## Contact
-If you have any questions regarding contributing, downloading a proclamation, the quality of a proclamation or finding a proclamation, please contact me at michaelawetahegn[at]gmail[dot]com.
+## Issues
+For issues regarding missing proclamations, errors in proclamation links etc. please [create a new issue.](https://github.com/opengazeta/federal-negarit-gazeta/issues/new)
