@@ -25,5 +25,8 @@ If there are any issues with the pull request or if you have any additional comm
 * [fsc.gov.et](http://www.fsc.gov.et/content/Negarit%20Gazeta/home22.htm)
 * [Chilot.me](http://chilot.me/)
 
+## Staging
+If a proclamation is missing, it may be under the [staging branch](https://github.com/opengazeta/federal-negarit-gazeta/tree/staging). Please note that the `staging` branch is full of poorly named or outright invalid PDFs. If that's the case, please consider [creating a new issue](https://github.com/opengazeta/federal-negarit-gazeta/issues/new) or find the proclamation yourself and [create a pull request](https://github.com/opengazeta/federal-negarit-gazeta/pulls).
+
 ## Issues
 For issues regarding missing proclamations, errors in proclamation links etc. please [create a new issue.](https://github.com/opengazeta/federal-negarit-gazeta/issues/new)
