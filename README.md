@@ -1,4 +1,11 @@
 # Federal Negarit Gazeta
+<h4>
+ <img src="https://www.iconninja.com/files/342/247/649/warn-warning-danger-alert-icon.png" width="30">
+ <strong>Danger: This branch contains unfiltered, unorganized files.</strong>
+</h4>
+
+<strong>Note: The staging area is used for temporary storage of proclamations before they're cleaned, checked and moved to the master branch. If you want to clean some proclamations for moving, please fork the project, clean the documents/proclamations and submit a pull request.</strong>
+
 Open collection of proclamations of the Federal Democratic Republic of Ethiopia. Government sites are usually not always running and even when they are they are either too slow or completely unresponsive so this repository serves the purpose of serving as a central repository of proclamations from the House of Representatives.
 
 ## Folder Organization
